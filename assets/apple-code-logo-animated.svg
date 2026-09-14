@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1254" height="1254" viewBox="0 0 1254 1254" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">iValtrix — apple code mark</title>
+  <desc id="logo-description">An apple with rainbow code filling its left half and leaf, a white right half, and three fine red, green and purple diagonal stripes. The right half and right side of the leaf stay solid white. Stripe centerline: The silhouette preserves the proportions of Apple’s website navigation mark. Code flows from left to right at varied speeds.</desc>
+  <defs>
+    <path id="apple-body" d="m13.0729 17.6825a3.61 3.61 0 0 0 -1.7248 3.0365 3.5132 3.5132 0 0 0 2.1379 3.2223 8.394 8.394 0 0 1 -1.0948 2.2618c-.6816.9812-1.3943 1.9623-2.4787 1.9623s-1.3633-.63-2.613-.63c-1.2187 0-1.6525.6507-2.644.6507s-1.6834-.9089-2.4787-2.0243a9.7842 9.7842 0 0 1 -1.6628-5.2776c0-3.0984 2.014-4.7405 3.9969-4.7405 1.0535 0 1.9314.6919 2.5924.6919.63 0 1.6112-.7333 2.8092-.7333a3.7579 3.7579 0 0 1 3.1604 1.5802z" transform="translate(115.3 -847.52617) scale(73.1)" />
+    <path id="apple-leaf" d="M9.3445 14.7907a3.5615 3.5615 0 0 0 .8469-2.22 1.5353 1.5353 0 0 0 -.031-.32 3.5686 3.5686 0 0 0 -2.3445 1.2084 3.4629 3.4629 0 0 0 -.8779 2.1585 1.419 1.419 0 0 0 .031.2892 1.19 1.19 0 0 0 .2169.0207 3.0935 3.0935 0 0 0 2.1586-1.1368z" transform="translate(115.3 -847.52617) scale(73.1)" />
+    <clipPath id="apple-shape" clipPathUnits="userSpaceOnUse">
+      <use xlink:href="#apple-body" />
+      <use xlink:href="#apple-leaf" />
+    </clipPath>
+    <clipPath id="body-shape" clipPathUnits="userSpaceOnUse">
+      <use xlink:href="#apple-body" />
+    </clipPath>
+    <clipPath id="leaf-shape" clipPathUnits="userSpaceOnUse">
+      <use xlink:href="#apple-leaf" />
+    </clipPath>
+    <clipPath id="left-of-cut" clipPathUnits="userSpaceOnUse">
+      <polygon points="-200,-200 819.8158,-200 368.7387,1454 -200,1454" />
+    </clipPath>
+    <linearGradient id="body-outline-colors" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="1254" gradientTransform="matrix(0.013679890561 0 0 0.013679890561 -1.577291381669 11.594065253078)">
+      <stop offset="0" stop-color="#ff424c" stop-opacity="0" />
+      <stop offset="0.2567783" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2615630" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2663477" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2711324" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.2727273" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2775120" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2822967" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2870813" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.2886762" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2934609" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2982456" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.3030303" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.3046252" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.3094099" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.3141946" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.3189793" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.3205742" stop-color="#ff6240" stop-opacity="0.04" />
+      <stop offset="0.3253589" stop-color="#ff6240" stop-opacity="0.65" />
+      <stop offset="0.3301435" stop-color="#ff6240" stop-opacity="0.9" />
+      <stop offset="0.3349282" stop-color="#ff6240" stop-opacity="0.16" />
+      <stop offset="0.3365231" stop-color="#ff6240" stop-opacity="0.04" />
+      <stop offset="0.3413078" stop-color="#ff6240" stop-opacity="0.65" />
+      <stop offset="0.3460925" stop-color="#ff6240" stop-opacity="0.9" />
+      <stop offset="0.3508772" stop-color="#ff6240" stop-opacity="0.16" />
+      <stop offset="0.3524721" stop-color="#ff7d34" stop-opacity="0.04" />
+      <stop offset="0.3572568" stop-color="#ff7d34" stop-opacity="0.65" />
+      <stop offset="0.3620415" stop-color="#ff7d34" stop-opacity="0.9" />
+      <stop offset="0.3668262" stop-color="#ff7d34" stop-opacity="0.16" />
+      <stop offset="0.3684211" stop-color="#ff7d34" stop-opacity="0.04" />
+      <stop offset="0.3732057" stop-color="#ff7d34" stop-opacity="0.65" />
+      <stop offset="0.3779904" stop-color="#ff7d34" stop-opacity="0.9" />
+      <stop offset="0.3827751" stop-color="#ff7d34" stop-opacity="0.16" />
+      <stop offset="0.3843700" stop-color="#fd9b2a" stop-opacity="0.04" />
+      <stop offset="0.3891547" stop-color="#fd9b2a" stop-opacity="0.65" />
+      <stop offset="0.3939394" stop-color="#fd9b2a" stop-opacity="0.9" />
+      <stop offset="0.3987241" stop-color="#fd9b2a" stop-opacity="0.16" />
+      <stop offset="0.4003190" stop-color="#fd9b2a" stop-opacity="0.04" />
+      <stop offset="0.4051037" stop-color="#fd9b2a" stop-opacity="0.65" />
+      <stop offset="0.4098884" stop-color="#fd9b2a" stop-opacity="0.9" />
+      <stop offset="0.4146730" stop-color="#fd9b2a" stop-opacity="0.16" />
+      <stop offset="0.4162679" stop-color="#f7be25" stop-opacity="0.04" />
+      <stop offset="0.4210526" stop-color="#f7be25" stop-opacity="0.65" />
+      <stop offset="0.4258373" stop-color="#f7be25" stop-opacity="0.9" />
+      <stop offset="0.4306220" stop-color="#f7be25" stop-opacity="0.16" />
+      <stop offset="0.4322169" stop-color="#f7be25" stop-opacity="0.04" />
+      <stop offset="0.4370016" stop-color="#f7be25" stop-opacity="0.65" />
+      <stop offset="0.4417863" stop-color="#f7be25" stop-opacity="0.9" />
+      <stop offset="0.4465710" stop-color="#f7be25" stop-opacity="0.16" />
+      <stop offset="0.4481659" stop-color="#e3d424" stop-opacity="0.04" />
+      <stop offset="0.4529506" stop-color="#e3d424" stop-opacity="0.65" />
+      <stop offset="0.4577352" stop-color="#e3d424" stop-opacity="0.9" />
+      <stop offset="0.4625199" stop-color="#e3d424" stop-opacity="0.16" />
+      <stop offset="0.4641148" stop-color="#e3d424" stop-opacity="0.04" />
+      <stop offset="0.4688995" stop-color="#e3d424" stop-opacity="0.65" />
+      <stop offset="0.4736842" stop-color="#e3d424" stop-opacity="0.9" />
+      <stop offset="0.4784689" stop-color="#e3d424" stop-opacity="0.16" />
+      <stop offset="0.4800638" stop-color="#c0dd28" stop-opacity="0.04" />
+      <stop offset="0.4848485" stop-color="#c0dd28" stop-opacity="0.65" />
+      <stop offset="0.4896332" stop-color="#c0dd28" stop-opacity="0.9" />
+      <stop offset="0.4944179" stop-color="#c0dd28" stop-opacity="0.16" />
+      <stop offset="0.4960128" stop-color="#c0dd28" stop-opacity="0.04" />
+      <stop offset="0.5007974" stop-color="#c0dd28" stop-opacity="0.65" />
+      <stop offset="0.5055821" stop-color="#c0dd28" stop-opacity="0.9" />
+      <stop offset="0.5103668" stop-color="#c0dd28" stop-opacity="0.16" />
+      <stop offset="0.5119617" stop-color="#94dc2b" stop-opacity="0.04" />
+      <stop offset="0.5167464" stop-color="#94dc2b" stop-opacity="0.65" />
+      <stop offset="0.5215311" stop-color="#94dc2b" stop-opacity="0.9" />
+      <stop offset="0.5263158" stop-color="#94dc2b" stop-opacity="0.16" />
+      <stop offset="0.5279107" stop-color="#94dc2b" stop-opacity="0.04" />
+      <stop offset="0.5326954" stop-color="#94dc2b" stop-opacity="0.65" />
+      <stop offset="0.5374801" stop-color="#94dc2b" stop-opacity="0.9" />
+      <stop offset="0.5422648" stop-color="#94dc2b" stop-opacity="0.16" />
+      <stop offset="0.5438596" stop-color="#65d72e" stop-opacity="0.04" />
+      <stop offset="0.5486443" stop-color="#65d72e" stop-opacity="0.65" />
+      <stop offset="0.5534290" stop-color="#65d72e" stop-opacity="0.9" />
+      <stop offset="0.5582137" stop-color="#65d72e" stop-opacity="0.16" />
+      <stop offset="0.5598086" stop-color="#65d72e" stop-opacity="0.04" />
+      <stop offset="0.5645933" stop-color="#65d72e" stop-opacity="0.65" />
+      <stop offset="0.5693780" stop-color="#65d72e" stop-opacity="0.9" />
+      <stop offset="0.5741627" stop-color="#65d72e" stop-opacity="0.16" />
+      <stop offset="0.5757576" stop-color="#3ad658" stop-opacity="0.04" />
+      <stop offset="0.5805423" stop-color="#3ad658" stop-opacity="0.65" />
+      <stop offset="0.5853270" stop-color="#3ad658" stop-opacity="0.9" />
+      <stop offset="0.5901116" stop-color="#3ad658" stop-opacity="0.16" />
+      <stop offset="0.5917065" stop-color="#3ad658" stop-opacity="0.04" />
+      <stop offset="0.5964912" stop-color="#3ad658" stop-opacity="0.65" />
+      <stop offset="0.6012759" stop-color="#3ad658" stop-opacity="0.9" />
+      <stop offset="0.6060606" stop-color="#3ad658" stop-opacity="0.16" />
+      <stop offset="0.6076555" stop-color="#18d582" stop-opacity="0.04" />
+      <stop offset="0.6124402" stop-color="#18d582" stop-opacity="0.65" />
+      <stop offset="0.6172249" stop-color="#18d582" stop-opacity="0.9" />
+      <stop offset="0.6220096" stop-color="#18d582" stop-opacity="0.16" />
+      <stop offset="0.6236045" stop-color="#18d582" stop-opacity="0.04" />
+      <stop offset="0.6283892" stop-color="#18d582" stop-opacity="0.65" />
+      <stop offset="0.6331738" stop-color="#18d582" stop-opacity="0.9" />
+      <stop offset="0.6379585" stop-color="#18d582" stop-opacity="0.16" />
+      <stop offset="0.6395534" stop-color="#15d4ac" stop-opacity="0.04" />
+      <stop offset="0.6443381" stop-color="#15d4ac" stop-opacity="0.65" />
+      <stop offset="0.6491228" stop-color="#15d4ac" stop-opacity="0.9" />
+      <stop offset="0.6539075" stop-color="#15d4ac" stop-opacity="0.16" />
+      <stop offset="0.6555024" stop-color="#15d4ac" stop-opacity="0.04" />
+      <stop offset="0.6602871" stop-color="#15d4ac" stop-opacity="0.65" />
+      <stop offset="0.6650718" stop-color="#15d4ac" stop-opacity="0.9" />
+      <stop offset="0.6698565" stop-color="#15d4ac" stop-opacity="0.16" />
+      <stop offset="0.6714514" stop-color="#17cfce" stop-opacity="0.04" />
+      <stop offset="0.6762360" stop-color="#17cfce" stop-opacity="0.65" />
+      <stop offset="0.6810207" stop-color="#17cfce" stop-opacity="0.9" />
+      <stop offset="0.6858054" stop-color="#17cfce" stop-opacity="0.16" />
+      <stop offset="0.6874003" stop-color="#17cfce" stop-opacity="0.04" />
+      <stop offset="0.6921850" stop-color="#17cfce" stop-opacity="0.65" />
+      <stop offset="0.6969697" stop-color="#17cfce" stop-opacity="0.9" />
+      <stop offset="0.7017544" stop-color="#17cfce" stop-opacity="0.16" />
+      <stop offset="0.7033493" stop-color="#1ec5e7" stop-opacity="0.04" />
+      <stop offset="0.7081340" stop-color="#1ec5e7" stop-opacity="0.65" />
+      <stop offset="0.7129187" stop-color="#1ec5e7" stop-opacity="0.9" />
+      <stop offset="0.7177033" stop-color="#1ec5e7" stop-opacity="0.16" />
+      <stop offset="0.7192982" stop-color="#1ec5e7" stop-opacity="0.04" />
+      <stop offset="0.7240829" stop-color="#1ec5e7" stop-opacity="0.65" />
+      <stop offset="0.7288676" stop-color="#1ec5e7" stop-opacity="0.9" />
+      <stop offset="0.7336523" stop-color="#1ec5e7" stop-opacity="0.16" />
+      <stop offset="0.7352472" stop-color="#2cabec" stop-opacity="0.04" />
+      <stop offset="0.7400319" stop-color="#2cabec" stop-opacity="0.65" />
+      <stop offset="0.7448166" stop-color="#2cabec" stop-opacity="0.9" />
+      <stop offset="0.7496013" stop-color="#2cabec" stop-opacity="0.16" />
+      <stop offset="0.7511962" stop-color="#2cabec" stop-opacity="0.04" />
+      <stop offset="0.7559809" stop-color="#2cabec" stop-opacity="0.65" />
+      <stop offset="0.7607656" stop-color="#2cabec" stop-opacity="0.9" />
+      <stop offset="0.7655502" stop-color="#2cabec" stop-opacity="0.16" />
+      <stop offset="0.7671451" stop-color="#3c8bea" stop-opacity="0.04" />
+      <stop offset="0.7719298" stop-color="#3c8bea" stop-opacity="0.65" />
+      <stop offset="0.7767145" stop-color="#3c8bea" stop-opacity="0.9" />
+      <stop offset="0.7814992" stop-color="#3c8bea" stop-opacity="0.16" />
+      <stop offset="0.7830941" stop-color="#3c8bea" stop-opacity="0.04" />
+      <stop offset="0.7878788" stop-color="#3c8bea" stop-opacity="0.65" />
+      <stop offset="0.7926635" stop-color="#3c8bea" stop-opacity="0.9" />
+      <stop offset="0.7974482" stop-color="#3c8bea" stop-opacity="0.16" />
+      <stop offset="0.7990431" stop-color="#5a74ec" stop-opacity="0.04" />
+      <stop offset="0.8038278" stop-color="#5a74ec" stop-opacity="0.65" />
+      <stop offset="0.8086124" stop-color="#5a74ec" stop-opacity="0.9" />
+      <stop offset="0.8133971" stop-color="#5a74ec" stop-opacity="0.16" />
+      <stop offset="0.8149920" stop-color="#5a74ec" stop-opacity="0.04" />
+      <stop offset="0.8197767" stop-color="#5a74ec" stop-opacity="0.65" />
+      <stop offset="0.8245614" stop-color="#5a74ec" stop-opacity="0.9" />
+      <stop offset="0.8293461" stop-color="#5a74ec" stop-opacity="0.16" />
+      <stop offset="0.8309410" stop-color="#7860eb" stop-opacity="0.04" />
+      <stop offset="0.8357257" stop-color="#7860eb" stop-opacity="0.65" />
+      <stop offset="0.8405104" stop-color="#7860eb" stop-opacity="0.9" />
+      <stop offset="0.8452951" stop-color="#7860eb" stop-opacity="0.16" />
+      <stop offset="0.8468900" stop-color="#7860eb" stop-opacity="0.04" />
+      <stop offset="0.8516746" stop-color="#7860eb" stop-opacity="0.65" />
+      <stop offset="0.8564593" stop-color="#7860eb" stop-opacity="0.9" />
+      <stop offset="0.8612440" stop-color="#7860eb" stop-opacity="0.16" />
+      <stop offset="0.8628389" stop-color="#9953e3" stop-opacity="0.04" />
+      <stop offset="0.8676236" stop-color="#9953e3" stop-opacity="0.65" />
+      <stop offset="0.8724083" stop-color="#9953e3" stop-opacity="0.9" />
+      <stop offset="0.8771930" stop-color="#9953e3" stop-opacity="0.16" />
+      <stop offset="0.8787879" stop-color="#9953e3" stop-opacity="0.04" />
+      <stop offset="0.8835726" stop-color="#9953e3" stop-opacity="0.65" />
+      <stop offset="0.8883573" stop-color="#9953e3" stop-opacity="0.9" />
+      <stop offset="0.8931419" stop-color="#9953e3" stop-opacity="0.16" />
+      <stop offset="0.8947368" stop-color="#ba4cd5" stop-opacity="0.04" />
+      <stop offset="0.8995215" stop-color="#ba4cd5" stop-opacity="0.65" />
+      <stop offset="0.9043062" stop-color="#ba4cd5" stop-opacity="0.9" />
+      <stop offset="0.9090909" stop-color="#ba4cd5" stop-opacity="0.16" />
+      <stop offset="0.9106858" stop-color="#ba4cd5" stop-opacity="0.04" />
+      <stop offset="0.9154705" stop-color="#ba4cd5" stop-opacity="0.65" />
+      <stop offset="0.9202552" stop-color="#ba4cd5" stop-opacity="0.9" />
+      <stop offset="0.9250399" stop-color="#ba4cd5" stop-opacity="0.16" />
+      <stop offset="0.9266348" stop-color="#db49c1" stop-opacity="0.04" />
+      <stop offset="0.9314195" stop-color="#db49c1" stop-opacity="0.65" />
+      <stop offset="0.9362041" stop-color="#db49c1" stop-opacity="0.9" />
+      <stop offset="0.9409888" stop-color="#db49c1" stop-opacity="0.16" />
+      <stop offset="0.9425837" stop-color="#db49c1" stop-opacity="0.04" />
+      <stop offset="0.9473684" stop-color="#db49c1" stop-opacity="0.65" />
+      <stop offset="0.9521531" stop-color="#db49c1" stop-opacity="0.9" />
+      <stop offset="0.9569378" stop-color="#db49c1" stop-opacity="0.16" />
+      <stop offset="0.9585327" stop-color="#ed4da9" stop-opacity="0.04" />
+      <stop offset="0.9633174" stop-color="#ed4da9" stop-opacity="0.65" />
+      <stop offset="0.9681021" stop-color="#ed4da9" stop-opacity="0.9" />
+      <stop offset="0.9728868" stop-color="#ed4da9" stop-opacity="0.16" />
+      <stop offset="0.9744817" stop-color="#ed4da9" stop-opacity="0.04" />
+      <stop offset="0.9792663" stop-color="#ed4da9" stop-opacity="0.65" />
+      <stop offset="0.9840510" stop-color="#ed4da9" stop-opacity="0.9" />
+      <stop offset="0.9888357" stop-color="#ed4da9" stop-opacity="0.16" />
+      <stop offset="0.9904306" stop-color="#fb538f" stop-opacity="0.04" />
+      <stop offset="0.9952153" stop-color="#fb538f" stop-opacity="0.65" />
+      <stop offset="1.0000000" stop-color="#fb538f" stop-opacity="0.9" />
+      <stop offset="1.0000000" stop-color="#fb538f" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#fb538f" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="leaf-outline-colors" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="1254" gradientTransform="matrix(0.013679890561 0 0 0.013679890561 -1.577291381669 11.594065253078)">
+      <stop offset="0" stop-color="#ff424c" stop-opacity="0" />
+      <stop offset="0.0279107" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.0326954" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.0374801" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.0422648" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.0438596" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.0486443" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.0534290" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.0582137" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.0598086" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.0645933" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.0693780" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.0741627" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.0757576" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.0805423" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.0853270" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.0901116" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.0917065" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.0964912" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1012759" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1060606" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1076555" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1124402" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1172249" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1220096" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1236045" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1283892" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1331738" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1379585" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1395534" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1443381" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1491228" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1539075" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1555024" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1602871" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1650718" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1698565" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1714514" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1762360" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1810207" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.1858054" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.1874003" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.1921850" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.1969697" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2017544" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.2033493" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2081340" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2129187" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2177033" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.2192982" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2240829" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2288676" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2336523" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="0.2352472" stop-color="#ff424c" stop-opacity="0.04" />
+      <stop offset="0.2400319" stop-color="#ff424c" stop-opacity="0.65" />
+      <stop offset="0.2448166" stop-color="#ff424c" stop-opacity="0.9" />
+      <stop offset="0.2496013" stop-color="#ff424c" stop-opacity="0.16" />
+      <stop offset="1" stop-color="#ff424c" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect id="background" width="1254" height="1254" fill="#111410" />
+  <g id="white-apple" fill="#f1f2eb">
+    <use xlink:href="#apple-body" />
+    <use xlink:href="#apple-leaf" />
+  </g>
+  <g clip-path="url(#apple-shape)">
+    <g id="code-half" clip-path="url(#left-of-cut)">
+      <rect width="1254" height="1254" fill="#111410" />
+      <g id="body-code" clip-path="url(#body-shape)" font-family="Menlo, DejaVu Sans Mono, monospace" font-size="17" font-weight="500" xml:space="preserve">
+        <g class="code-stream" style="--start: -2264.400px; --duration: 75.480000s">
+          <text id="body-row-00" x="-13" y="338" fill="#ff424c" textLength="2264.400" lengthAdjust="spacingAndGlyphs">decode(bytes + 140);  adrp x19, _section  mov x5, x9  mask = 0xA2C0;  flags &amp; 0xEE  meta[5].len = 162;  cbz x15, label_A8  size_t count = 336;  trace(ptr + 0xC5);  checksum: 0x6DAE  ldr x7, [x22, #0x32]  and x10, x9, #0x73</text>
+          <text x="2251.400" y="338" fill="#ff424c" textLength="2264.400" lengthAdjust="spacingAndGlyphs">decode(bytes + 140);  adrp x19, _section  mov x5, x9  mask = 0xA2C0;  flags &amp; 0xEE  meta[5].len = 162;  cbz x15, label_A8  size_t count = 336;  trace(ptr + 0xC5);  checksum: 0x6DAE  ldr x7, [x22, #0x32]  and x10, x9, #0x73</text>
+        </g>
+        <g class="code-stream" style="--start: -2213.400px; --duration: 51.474419s">
+          <text id="body-row-01" x="-13" y="358" fill="#ff424c" textLength="2213.400" lengthAdjust="spacingAndGlyphs">and x11, x19, #0x11  eor x15, x8, x9  0xE8CB : 5F A2  ror w5, w3, #7  span(data, 57)  view.subspan(0x52)  type_id: 0xB773  mask = 0x9BD7;  const size = 345;  Result&lt;Bytes, Error&gt;  cbz x23, label_4D  meta[1].len = 195;</text>
+          <text x="2200.400" y="358" fill="#ff424c" textLength="2213.400" lengthAdjust="spacingAndGlyphs">and x11, x19, #0x11  eor x15, x8, x9  0xE8CB : 5F A2  ror w5, w3, #7  span(data, 57)  view.subspan(0x52)  type_id: 0xB773  mask = 0x9BD7;  const size = 345;  Result&lt;Bytes, Error&gt;  cbz x23, label_4D  meta[1].len = 195;</text>
+        </g>
+        <g class="code-stream" style="--start: -2295.000px; --duration: 40.982143s">
+          <text id="body-row-02" x="-13" y="378" fill="#ff424c" textLength="2295.000" lengthAdjust="spacingAndGlyphs">mask = 0x0DC3;  decode(bytes + 234);  fn parse_5E(input)  let offset = 0x724E;  size_t count = 128;  type_id: 0x2890  checksum: 0x9500  cbz x15, label_70  flags &amp; 0x60  str x18, [x3, #152]  struct node_81 {  align_up(258, 16)</text>
+          <text x="2282.000" y="378" fill="#ff424c" textLength="2295.000" lengthAdjust="spacingAndGlyphs">mask = 0x0DC3;  decode(bytes + 234);  fn parse_5E(input)  let offset = 0x724E;  size_t count = 128;  type_id: 0x2890  checksum: 0x9500  cbz x15, label_70  flags &amp; 0x60  str x18, [x3, #152]  struct node_81 {  align_up(258, 16)</text>
+        </g>
+        <g class="code-stream" style="--start: -2356.200px; --duration: 58.905000s">
+          <text id="body-row-03" x="-13" y="398" fill="#ff424c" textLength="2356.200" lengthAdjust="spacingAndGlyphs">const size = 316;  str x10, [x8, #122]  mask = 0x635D;  01101110010 1000010000  eor x17, x20, x9  and x17, x22, #0x3E  view.subspan(0xCF)  fn parse_67(input)  mov x19, x13  std::byte{0xF7}  ldr x23, [x23, #0x48]  meta[6].len = 106;</text>
+          <text x="2343.200" y="398" fill="#ff424c" textLength="2356.200" lengthAdjust="spacingAndGlyphs">const size = 316;  str x10, [x8, #122]  mask = 0x635D;  01101110010 1000010000  eor x17, x20, x9  and x17, x22, #0x3E  view.subspan(0xCF)  fn parse_67(input)  mov x19, x13  std::byte{0xF7}  ldr x23, [x23, #0x48]  meta[6].len = 106;</text>
+        </g>
+        <g class="code-stream" style="--start: -2397.000px; --duration: 45.226415s">
+          <text id="body-row-04" x="-13" y="418" fill="#ff6240" textLength="2397.000" lengthAdjust="spacingAndGlyphs">cbz x4, label_68  let offset = 0xF2D2;  mov x10, x11  let slice = &amp;data[20..306];  buffer[5] ^= 0xD3;  str x17, [x9, #64]  read_u32(base + 223);  cmp w2, #350  Result&lt;Bytes, Error&gt;  add x13, x3, #136  const size = 232;  eor x3, x16, x9</text>
+          <text x="2384.000" y="418" fill="#ff6240" textLength="2397.000" lengthAdjust="spacingAndGlyphs">cbz x4, label_68  let offset = 0xF2D2;  mov x10, x11  let slice = &amp;data[20..306];  buffer[5] ^= 0xD3;  str x17, [x9, #64]  read_u32(base + 223);  cmp w2, #350  Result&lt;Bytes, Error&gt;  add x13, x3, #136  const size = 232;  eor x3, x16, x9</text>
+        </g>
+        <g class="code-stream" style="--start: -2335.800px; --duration: 63.129730s">
+          <text id="body-row-05" x="-13" y="438" fill="#ff6240" textLength="2335.800" lengthAdjust="spacingAndGlyphs">type_id: 0x4264  cmp w14, #86  01101110110 1011100001  read_u32(base + 294);  adrp x4, _section  0b1001110010101110  struct node_CE {  trace(ptr + 0x7F);  eor x20, x8, x9  str x18, [x8, #173]  ror w15, w5, #7  meta[22].len = 210;</text>
+          <text x="2322.800" y="438" fill="#ff6240" textLength="2335.800" lengthAdjust="spacingAndGlyphs">type_id: 0x4264  cmp w14, #86  01101110110 1011100001  read_u32(base + 294);  adrp x4, _section  0b1001110010101110  struct node_CE {  trace(ptr + 0x7F);  eor x20, x8, x9  str x18, [x8, #173]  ror w15, w5, #7  meta[22].len = 210;</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 46.104000s">
+          <text id="body-row-06" x="-13" y="458" fill="#ff7d34" textLength="2305.200" lengthAdjust="spacingAndGlyphs">add x22, x16, #295  0x6E79 : 97 29  buffer[4] ^= 0x10;  cmp w12, #82  let offset = 0xBB89;  flags &amp; 0x8F  checksum: 0xB875  meta[10].len = 231;  ror w19, w20, #7  ldr x12, [x17, #0xBB]  std::array&lt;u8, 280&gt;  size_t count = 240;</text>
+          <text x="2292.200" y="458" fill="#ff7d34" textLength="2305.200" lengthAdjust="spacingAndGlyphs">add x22, x16, #295  0x6E79 : 97 29  buffer[4] ^= 0x10;  cmp w12, #82  let offset = 0xBB89;  flags &amp; 0x8F  checksum: 0xB875  meta[10].len = 231;  ror w19, w20, #7  ldr x12, [x17, #0xBB]  std::array&lt;u8, 280&gt;  size_t count = 240;</text>
+        </g>
+        <g class="code-stream" style="--start: -2295.000px; --duration: 67.500000s">
+          <text id="body-row-07" x="-13" y="478" fill="#ff7d34" textLength="2295.000" lengthAdjust="spacingAndGlyphs">meta[18].len = 34;  flags &amp; 0xB7  type_id: 0x7464  decode(bytes + 29);  span(data, 254)  0xD653 : 4C 32  01101111110 1011101001  str x5, [x22, #349]  and x14, x5, #0x5B  mask = 0x2482;  size_t count = 42;  ldr w13, [sp, #297]</text>
+          <text x="2282.000" y="478" fill="#ff7d34" textLength="2295.000" lengthAdjust="spacingAndGlyphs">meta[18].len = 34;  flags &amp; 0xB7  type_id: 0x7464  decode(bytes + 29);  span(data, 254)  0xD653 : 4C 32  01101111110 1011101001  str x5, [x22, #349]  and x14, x5, #0x5B  mask = 0x2482;  size_t count = 42;  ldr w13, [sp, #297]</text>
+        </g>
+        <g class="code-stream" style="--start: -2427.600px; --duration: 51.651064s">
+          <text id="body-row-08" x="-13" y="498" fill="#fd9b2a" textLength="2427.600" lengthAdjust="spacingAndGlyphs">ldr w8, [sp, #319]  view.subspan(0x06)  decode(bytes + 151);  fn parse_7E(input)  type_id: 0x18BE  let slice = &amp;data[15..131];  adrp x5, _section  std::byte{0xD6}  std::array&lt;u8, 31&gt;  mask = 0xEB08;  buffer[2] ^= 0x12;  meta[11].len = 77;</text>
+          <text x="2414.600" y="498" fill="#fd9b2a" textLength="2427.600" lengthAdjust="spacingAndGlyphs">ldr w8, [sp, #319]  view.subspan(0x06)  decode(bytes + 151);  fn parse_7E(input)  type_id: 0x18BE  let slice = &amp;data[15..131];  adrp x5, _section  std::byte{0xD6}  std::array&lt;u8, 31&gt;  mask = 0xEB08;  buffer[2] ^= 0x12;  meta[11].len = 77;</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 75.677419s">
+          <text id="body-row-09" x="-13" y="518" fill="#fd9b2a" textLength="2346.000" lengthAdjust="spacingAndGlyphs">add x18, x11, #269  adrp x7, _section  frame.id == 297  ldr w14, [sp, #218]  trace(ptr + 0xCD);  std::byte{0x9A}  const size = 110;  read_u32(base + 68);  cbz x12, label_7F  eor x14, x22, x9  0b0001111011111011  fn parse_67(input)</text>
+          <text x="2333.000" y="518" fill="#fd9b2a" textLength="2346.000" lengthAdjust="spacingAndGlyphs">add x18, x11, #269  adrp x7, _section  frame.id == 297  ldr w14, [sp, #218]  trace(ptr + 0xCD);  std::byte{0x9A}  const size = 110;  read_u32(base + 68);  cbz x12, label_7F  eor x14, x22, x9  0b0001111011111011  fn parse_67(input)</text>
+        </g>
+        <g class="code-stream" style="--start: -2366.400px; --duration: 53.781818s">
+          <text id="body-row-10" x="-13" y="538" fill="#f7be25" textLength="2366.400" lengthAdjust="spacingAndGlyphs">0xA9C4 : 75 1E  let slice = &amp;data[18..345];  ldr w12, [sp, #48]  ldr x23, [x18, #0x8E]  Result&lt;Bytes, Error&gt;  eor x21, x8, x9  flags &amp; 0xCA  checksum: 0xCDFA  fn parse_C0(input)  decode(bytes + 23);  span(data, 302)  type_id: 0x1D53</text>
+          <text x="2353.400" y="538" fill="#f7be25" textLength="2366.400" lengthAdjust="spacingAndGlyphs">0xA9C4 : 75 1E  let slice = &amp;data[18..345];  ldr w12, [sp, #48]  ldr x23, [x18, #0x8E]  Result&lt;Bytes, Error&gt;  eor x21, x8, x9  flags &amp; 0xCA  checksum: 0xCDFA  fn parse_C0(input)  decode(bytes + 23);  span(data, 302)  type_id: 0x1D53</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 41.157895s">
+          <text id="body-row-11" x="-13" y="558" fill="#f7be25" textLength="2346.000" lengthAdjust="spacingAndGlyphs">std::byte{0x9F}  cbz x19, label_4A  and x21, x3, #0x02  0b1011110011100100  meta[16].len = 161;  view.subspan(0x70)  std::array&lt;u8, 335&gt;  flags &amp; 0x40  Result&lt;Bytes, Error&gt;  trace(ptr + 0x36);  frame.id == 216  ldr w20, [sp, #317]</text>
+          <text x="2333.000" y="558" fill="#f7be25" textLength="2346.000" lengthAdjust="spacingAndGlyphs">std::byte{0x9F}  cbz x19, label_4A  and x21, x3, #0x02  0b1011110011100100  meta[16].len = 161;  view.subspan(0x70)  std::array&lt;u8, 335&gt;  flags &amp; 0x40  Result&lt;Bytes, Error&gt;  trace(ptr + 0x36);  frame.id == 216  ldr w20, [sp, #317]</text>
+        </g>
+        <g class="code-stream" style="--start: -2233.800px; --duration: 54.482927s">
+          <text id="body-row-12" x="-13" y="578" fill="#e3d424" textLength="2233.800" lengthAdjust="spacingAndGlyphs">ldr w8, [sp, #158]  type_id: 0x7D68  and x1, x1, #0x11  Result&lt;Bytes, Error&gt;  let offset = 0x07C6;  add x16, x13, #32  frame.id == 378  mov x23, x3  const size = 284;  0x7901 : AC 40  fn parse_97(input)  span(data, 210)</text>
+          <text x="2220.800" y="578" fill="#e3d424" textLength="2233.800" lengthAdjust="spacingAndGlyphs">ldr w8, [sp, #158]  type_id: 0x7D68  and x1, x1, #0x11  Result&lt;Bytes, Error&gt;  let offset = 0x07C6;  add x16, x13, #32  frame.id == 378  mov x23, x3  const size = 284;  0x7901 : AC 40  fn parse_97(input)  span(data, 210)</text>
+        </g>
+        <g class="code-stream" style="--start: -2264.400px; --duration: 41.933333s">
+          <text id="body-row-13" x="-13" y="598" fill="#e3d424" textLength="2264.400" lengthAdjust="spacingAndGlyphs">struct node_06 {  str x6, [x14, #353]  add x19, x12, #137  mov x18, x6  adrp x14, _section  cbz x9, label_45  let offset = 0xED91;  frame.id == 121  ldr x2, [x15, #0x25]  const size = 43;  cmp w11, #339  view.subspan(0x82)</text>
+          <text x="2251.400" y="598" fill="#e3d424" textLength="2264.400" lengthAdjust="spacingAndGlyphs">struct node_06 {  str x6, [x14, #353]  add x19, x12, #137  mov x18, x6  adrp x14, _section  cbz x9, label_45  let offset = 0xED91;  frame.id == 121  ldr x2, [x15, #0x25]  const size = 43;  cmp w11, #339  view.subspan(0x82)</text>
+        </g>
+        <g class="code-stream" style="--start: -2274.600px; --duration: 59.857895s">
+          <text id="body-row-14" x="-13" y="618" fill="#c0dd28" textLength="2274.600" lengthAdjust="spacingAndGlyphs">std::byte{0xD7}  view.subspan(0x81)  cmp w18, #177  01101000111 1001001001  align_up(281, 16)  size_t count = 124;  type_id: 0x7F49  add x2, x20, #339  and x10, x16, #0x06  Result&lt;Bytes, Error&gt;  flags &amp; 0x02  0xD2FA : 6F 3D</text>
+          <text x="2261.600" y="618" fill="#c0dd28" textLength="2274.600" lengthAdjust="spacingAndGlyphs">std::byte{0xD7}  view.subspan(0x81)  cmp w18, #177  01101000111 1001001001  align_up(281, 16)  size_t count = 124;  type_id: 0x7F49  add x2, x20, #339  and x10, x16, #0x06  Result&lt;Bytes, Error&gt;  flags &amp; 0x02  0xD2FA : 6F 3D</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 45.200000s">
+          <text id="body-row-15" x="-13" y="638" fill="#c0dd28" textLength="2305.200" lengthAdjust="spacingAndGlyphs">align_up(185, 16)  let offset = 0xBA1A;  str x3, [x18, #34]  flags &amp; 0x18  mask = 0xD4A1;  std::array&lt;u8, 170&gt;  const size = 146;  adrp x11, _section  Result&lt;Bytes, Error&gt;  struct node_E0 {  and x16, x21, #0x13  0xFAC2 : ED 37</text>
+          <text x="2292.200" y="638" fill="#c0dd28" textLength="2305.200" lengthAdjust="spacingAndGlyphs">align_up(185, 16)  let offset = 0xBA1A;  str x3, [x18, #34]  flags &amp; 0x18  mask = 0xD4A1;  std::array&lt;u8, 170&gt;  const size = 146;  adrp x11, _section  Result&lt;Bytes, Error&gt;  struct node_E0 {  and x16, x21, #0x13  0xFAC2 : ED 37</text>
+        </g>
+        <g class="code-stream" style="--start: -2407.200px; --duration: 68.777143s">
+          <text id="body-row-16" x="-13" y="658" fill="#94dc2b" textLength="2407.200" lengthAdjust="spacingAndGlyphs">cmp w2, #93  ror w13, w3, #7  let slice = &amp;data[18..348];  view.subspan(0xFF)  checksum: 0x74A2  buffer[4] ^= 0xB2;  struct node_21 {  and x9, x18, #0xB3  adrp x23, _section  trace(ptr + 0x22);  Result&lt;Bytes, Error&gt;  std::array&lt;u8, 216&gt;</text>
+          <text x="2394.200" y="658" fill="#94dc2b" textLength="2407.200" lengthAdjust="spacingAndGlyphs">cmp w2, #93  ror w13, w3, #7  let slice = &amp;data[18..348];  view.subspan(0xFF)  checksum: 0x74A2  buffer[4] ^= 0xB2;  struct node_21 {  and x9, x18, #0xB3  adrp x23, _section  trace(ptr + 0x22);  Result&lt;Bytes, Error&gt;  std::array&lt;u8, 216&gt;</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 48.025000s">
+          <text id="body-row-17" x="-13" y="678" fill="#94dc2b" textLength="2305.200" lengthAdjust="spacingAndGlyphs">01110110011 1001111001  std::byte{0xD3}  buffer[5] ^= 0x95;  mov x5, x17  frame.id == 248  0x795A : 5A 6E  eor x19, x2, x9  std::array&lt;u8, 332&gt;  trace(ptr + 0xB8);  add x19, x3, #220  ldr x17, [x8, #0x50]  let offset = 0x973A;</text>
+          <text x="2292.200" y="678" fill="#94dc2b" textLength="2305.200" lengthAdjust="spacingAndGlyphs">01110110011 1001111001  std::byte{0xD3}  buffer[5] ^= 0x95;  mov x5, x17  frame.id == 248  0x795A : 5A 6E  eor x19, x2, x9  std::array&lt;u8, 332&gt;  trace(ptr + 0xB8);  add x19, x3, #220  ldr x17, [x8, #0x50]  let offset = 0x973A;</text>
+        </g>
+        <g class="code-stream" style="--start: -2284.800px; --duration: 71.400000s">
+          <text id="body-row-18" x="-13" y="698" fill="#65d72e" textLength="2284.800" lengthAdjust="spacingAndGlyphs">type_id: 0xBDEB  read_u32(base + 46);  align_up(40, 16)  str x18, [x7, #257]  std::array&lt;u8, 28&gt;  and x5, x8, #0x9B  eor x8, x23, x9  flags &amp; 0x37  buffer[11] ^= 0x19;  struct node_11 {  view.subspan(0x95)  add x7, x10, #328</text>
+          <text x="2271.800" y="698" fill="#65d72e" textLength="2284.800" lengthAdjust="spacingAndGlyphs">type_id: 0xBDEB  read_u32(base + 46);  align_up(40, 16)  str x18, [x7, #257]  std::array&lt;u8, 28&gt;  and x5, x8, #0x9B  eor x8, x23, x9  flags &amp; 0x37  buffer[11] ^= 0x19;  struct node_11 {  view.subspan(0x95)  add x7, x10, #328</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 51.226667s">
+          <text id="body-row-19" x="-13" y="718" fill="#65d72e" textLength="2305.200" lengthAdjust="spacingAndGlyphs">eor x14, x18, x9  flags &amp; 0xEE  view.subspan(0x5D)  cmp w10, #46  01101111001 1001001110  std::byte{0xEE}  fn parse_47(input)  0x5448 : 4F 6B  type_id: 0xF565  cbz x11, label_FA  let slice = &amp;data[22..206];  size_t count = 26;</text>
+          <text x="2292.200" y="718" fill="#65d72e" textLength="2305.200" lengthAdjust="spacingAndGlyphs">eor x14, x18, x9  flags &amp; 0xEE  view.subspan(0x5D)  cmp w10, #46  01101111001 1001001110  std::byte{0xEE}  fn parse_47(input)  0x5448 : 4F 6B  type_id: 0xF565  cbz x11, label_FA  let slice = &amp;data[22..206];  size_t count = 26;</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 39.744828s">
+          <text id="body-row-20" x="-13" y="738" fill="#3ad658" textLength="2305.200" lengthAdjust="spacingAndGlyphs">0xC047 : 00 D6  span(data, 88)  ror w20, w4, #7  let offset = 0xE691;  and x18, x17, #0xB3  type_id: 0xC518  size_t count = 304;  meta[7].len = 198;  01110101011 1000010101  mov x1, x16  ldr w5, [sp, #24]  decode(bytes + 364);</text>
+          <text x="2292.200" y="738" fill="#3ad658" textLength="2305.200" lengthAdjust="spacingAndGlyphs">0xC047 : 00 D6  span(data, 88)  ror w20, w4, #7  let offset = 0xE691;  and x18, x17, #0xB3  type_id: 0xC518  size_t count = 304;  meta[7].len = 198;  01110101011 1000010101  mov x1, x16  ldr w5, [sp, #24]  decode(bytes + 364);</text>
+        </g>
+        <g class="code-stream" style="--start: -2264.400px; --duration: 53.914286s">
+          <text id="body-row-21" x="-13" y="758" fill="#3ad658" textLength="2264.400" lengthAdjust="spacingAndGlyphs">mov x15, x11  Result&lt;Bytes, Error&gt;  const size = 167;  adrp x18, _section  size_t count = 56;  eor x3, x4, x9  decode(bytes + 216);  read_u32(base + 43);  fn parse_07(input)  std::byte{0xBE}  struct node_B6 {  cmp w1, #299</text>
+          <text x="2251.400" y="758" fill="#3ad658" textLength="2264.400" lengthAdjust="spacingAndGlyphs">mov x15, x11  Result&lt;Bytes, Error&gt;  const size = 167;  adrp x18, _section  size_t count = 56;  eor x3, x4, x9  decode(bytes + 216);  read_u32(base + 43);  fn parse_07(input)  std::byte{0xBE}  struct node_B6 {  cmp w1, #299</text>
+        </g>
+        <g class="code-stream" style="--start: -2437.800px; --duration: 44.323636s">
+          <text id="body-row-22" x="-13" y="778" fill="#18d582" textLength="2437.800" lengthAdjust="spacingAndGlyphs">struct node_19 {  let offset = 0x989F;  span(data, 134)  fn parse_EA(input)  trace(ptr + 0x90);  std::byte{0xBB}  frame.id == 50  adrp x20, _section  ldr x11, [x7, #0xA4]  0b1011001111111010  let slice = &amp;data[2..300];  ldr w12, [sp, #167]</text>
+          <text x="2424.800" y="778" fill="#18d582" textLength="2437.800" lengthAdjust="spacingAndGlyphs">struct node_19 {  let offset = 0x989F;  span(data, 134)  fn parse_EA(input)  trace(ptr + 0x90);  std::byte{0xBB}  frame.id == 50  adrp x20, _section  ldr x11, [x7, #0xA4]  0b1011001111111010  let slice = &amp;data[2..300];  ldr w12, [sp, #167]</text>
+        </g>
+        <g class="code-stream" style="--start: -2458.200px; --duration: 63.030769s">
+          <text id="body-row-23" x="-13" y="798" fill="#18d582" textLength="2458.200" lengthAdjust="spacingAndGlyphs">decode(bytes + 128);  adrp x7, _section  read_u32(base + 328);  cbz x15, label_66  mov x22, x6  01111101100 1010010010  std::byte{0x81}  std::array&lt;u8, 79&gt;  let slice = &amp;data[5..58];  meta[12].len = 358;  struct node_54 {  and x5, x15, #0x3C</text>
+          <text x="2445.200" y="798" fill="#18d582" textLength="2458.200" lengthAdjust="spacingAndGlyphs">decode(bytes + 128);  adrp x7, _section  read_u32(base + 328);  cbz x15, label_66  mov x22, x6  01111101100 1010010010  std::byte{0x81}  std::array&lt;u8, 79&gt;  let slice = &amp;data[5..58];  meta[12].len = 358;  struct node_54 {  and x5, x15, #0x3C</text>
+        </g>
+        <g class="code-stream" style="--start: -2519.400px; --duration: 48.450000s">
+          <text id="body-row-24" x="-13" y="818" fill="#15d4ac" textLength="2519.400" lengthAdjust="spacingAndGlyphs">0b1111001110010100  ldr w15, [sp, #316]  mov x15, x1  size_t count = 231;  read_u32(base + 328);  meta[3].len = 128;  01100001010 1010110111  adrp x10, _section  let slice = &amp;data[13..123];  view.subspan(0x63)  add x13, x17, #359  cbz x5, label_AE</text>
+          <text x="2506.400" y="818" fill="#15d4ac" textLength="2519.400" lengthAdjust="spacingAndGlyphs">0b1111001110010100  ldr w15, [sp, #316]  mov x15, x1  size_t count = 231;  read_u32(base + 328);  meta[3].len = 128;  01100001010 1010110111  adrp x10, _section  let slice = &amp;data[13..123];  view.subspan(0x63)  add x13, x17, #359  cbz x5, label_AE</text>
+        </g>
+        <g class="code-stream" style="--start: -2417.400px; --duration: 67.150000s">
+          <text id="body-row-25" x="-13" y="838" fill="#15d4ac" textLength="2417.400" lengthAdjust="spacingAndGlyphs">cbz x2, label_0C  struct node_91 {  let slice = &amp;data[7..84];  add x4, x23, #268  buffer[15] ^= 0x35;  str x19, [x4, #223]  let offset = 0x0B1A;  ror w10, w3, #7  eor x11, x7, x9  cmp w4, #189  read_u32(base + 213);  decode(bytes + 344);</text>
+          <text x="2404.400" y="838" fill="#15d4ac" textLength="2417.400" lengthAdjust="spacingAndGlyphs">cbz x2, label_0C  struct node_91 {  let slice = &amp;data[7..84];  add x4, x23, #268  buffer[15] ^= 0x35;  str x19, [x4, #223]  let offset = 0x0B1A;  ror w10, w3, #7  eor x11, x7, x9  cmp w4, #189  read_u32(base + 213);  decode(bytes + 344);</text>
+        </g>
+        <g class="code-stream" style="--start: -2213.400px; --duration: 45.171429s">
+          <text id="body-row-26" x="-13" y="858" fill="#17cfce" textLength="2213.400" lengthAdjust="spacingAndGlyphs">0xA5DA : 23 49  view.subspan(0xE9)  std::byte{0xE0}  01101001000 1001011011  eor x2, x4, x9  flags &amp; 0xCD  std::array&lt;u8, 138&gt;  and x13, x21, #0x46  add x6, x1, #261  mov x6, x21  ldr x16, [x2, #0x7D]  span(data, 364)</text>
+          <text x="2200.400" y="858" fill="#17cfce" textLength="2213.400" lengthAdjust="spacingAndGlyphs">0xA5DA : 23 49  view.subspan(0xE9)  std::byte{0xE0}  01101001000 1001011011  eor x2, x4, x9  flags &amp; 0xCD  std::array&lt;u8, 138&gt;  and x13, x21, #0x46  add x6, x1, #261  mov x6, x21  ldr x16, [x2, #0x7D]  span(data, 364)</text>
+        </g>
+        <g class="code-stream" style="--start: -2397.000px; --duration: 72.636364s">
+          <text id="body-row-27" x="-13" y="878" fill="#17cfce" textLength="2397.000" lengthAdjust="spacingAndGlyphs">ror w13, w2, #7  ldr x22, [x1, #0xA3]  adrp x6, _section  trace(ptr + 0xE9);  view.subspan(0xC3)  buffer[23] ^= 0x5F;  let offset = 0xA8A2;  fn parse_3F(input)  checksum: 0x9B1D  std::array&lt;u8, 33&gt;  std::byte{0xFB}  and x12, x17, #0xD0</text>
+          <text x="2384.000" y="878" fill="#17cfce" textLength="2397.000" lengthAdjust="spacingAndGlyphs">ror w13, w2, #7  ldr x22, [x1, #0xA3]  adrp x6, _section  trace(ptr + 0xE9);  view.subspan(0xC3)  buffer[23] ^= 0x5F;  let offset = 0xA8A2;  fn parse_3F(input)  checksum: 0x9B1D  std::array&lt;u8, 33&gt;  std::byte{0xFB}  and x12, x17, #0xD0</text>
+        </g>
+        <g class="code-stream" style="--start: -2437.800px; --duration: 52.995652s">
+          <text id="body-row-28" x="-13" y="898" fill="#1ec5e7" textLength="2437.800" lengthAdjust="spacingAndGlyphs">align_up(53, 16)  std::byte{0x15}  mask = 0xDC77;  size_t count = 314;  let slice = &amp;data[23..357];  adrp x8, _section  fn parse_F8(input)  meta[17].len = 255;  let offset = 0xF126;  std::array&lt;u8, 88&gt;  0b0001111111001111  eor x13, x14, x9</text>
+          <text x="2424.800" y="898" fill="#1ec5e7" textLength="2437.800" lengthAdjust="spacingAndGlyphs">align_up(53, 16)  std::byte{0x15}  mask = 0xDC77;  size_t count = 314;  let slice = &amp;data[23..357];  adrp x8, _section  fn parse_F8(input)  meta[17].len = 255;  let offset = 0xF126;  std::array&lt;u8, 88&gt;  0b0001111111001111  eor x13, x14, x9</text>
+        </g>
+        <g class="code-stream" style="--start: -2325.600px; --duration: 77.520000s">
+          <text id="body-row-29" x="-13" y="918" fill="#1ec5e7" textLength="2325.600" lengthAdjust="spacingAndGlyphs">std::array&lt;u8, 80&gt;  eor x13, x2, x9  std::byte{0x21}  ldr x21, [x7, #0x04]  buffer[12] ^= 0x6D;  01100101101 1010010101  add x17, x4, #100  fn parse_72(input)  align_up(78, 16)  0xFE05 : A1 1D  mask = 0xB554;  adrp x10, _section</text>
+          <text x="2312.600" y="918" fill="#1ec5e7" textLength="2325.600" lengthAdjust="spacingAndGlyphs">std::array&lt;u8, 80&gt;  eor x13, x2, x9  std::byte{0x21}  ldr x21, [x7, #0x04]  buffer[12] ^= 0x6D;  01100101101 1010010101  add x17, x4, #100  fn parse_72(input)  align_up(78, 16)  0xFE05 : A1 1D  mask = 0xB554;  adrp x10, _section</text>
+        </g>
+        <g class="code-stream" style="--start: -2468.400px; --duration: 57.404651s">
+          <text id="body-row-30" x="-13" y="938" fill="#2cabec" textLength="2468.400" lengthAdjust="spacingAndGlyphs">view.subspan(0x88)  str x23, [x18, #100]  let slice = &amp;data[20..340];  std::array&lt;u8, 127&gt;  size_t count = 372;  0b1000011110100100  and x5, x5, #0xBE  fn parse_F6(input)  add x5, x10, #284  read_u32(base + 268);  mask = 0xDD8C;  flags &amp; 0x8C</text>
+          <text x="2455.400" y="938" fill="#2cabec" textLength="2468.400" lengthAdjust="spacingAndGlyphs">view.subspan(0x88)  str x23, [x18, #100]  let slice = &amp;data[20..340];  std::array&lt;u8, 127&gt;  size_t count = 372;  0b1000011110100100  and x5, x5, #0xBE  fn parse_F6(input)  add x5, x10, #284  read_u32(base + 268);  mask = 0xDD8C;  flags &amp; 0x8C</text>
+        </g>
+        <g class="code-stream" style="--start: -2417.400px; --duration: 43.167857s">
+          <text id="body-row-31" x="-13" y="958" fill="#2cabec" textLength="2417.400" lengthAdjust="spacingAndGlyphs">type_id: 0x925E  buffer[6] ^= 0x7A;  flags &amp; 0xDF  align_up(299, 16)  span(data, 158)  ldr x8, [x2, #0x04]  cmp w11, #336  const size = 188;  Result&lt;Bytes, Error&gt;  decode(bytes + 267);  01111110011 1001110000  let slice = &amp;data[23..274];</text>
+          <text x="2404.400" y="958" fill="#2cabec" textLength="2417.400" lengthAdjust="spacingAndGlyphs">type_id: 0x925E  buffer[6] ^= 0x7A;  flags &amp; 0xDF  align_up(299, 16)  span(data, 158)  ldr x8, [x2, #0x04]  cmp w11, #336  const size = 188;  Result&lt;Bytes, Error&gt;  decode(bytes + 267);  01111110011 1001110000  let slice = &amp;data[23..274];</text>
+        </g>
+        <g class="code-stream" style="--start: -2182.800px; --duration: 54.570000s">
+          <text id="body-row-32" x="-13" y="978" fill="#3c8bea" textLength="2182.800" lengthAdjust="spacingAndGlyphs">checksum: 0x533E  ror w2, w3, #7  view.subspan(0x04)  let offset = 0x2471;  mov x13, x7  adrp x1, _section  struct node_56 {  0xC158 : 25 B8  buffer[16] ^= 0xBD;  str x8, [x14, #22]  eor x22, x18, x9  cmp w15, #240</text>
+          <text x="2169.800" y="978" fill="#3c8bea" textLength="2182.800" lengthAdjust="spacingAndGlyphs">checksum: 0x533E  ror w2, w3, #7  view.subspan(0x04)  let offset = 0x2471;  mov x13, x7  adrp x1, _section  struct node_56 {  0xC158 : 25 B8  buffer[16] ^= 0xBD;  str x8, [x14, #22]  eor x22, x18, x9  cmp w15, #240</text>
+        </g>
+        <g class="code-stream" style="--start: -2254.200px; --duration: 42.532075s">
+          <text id="body-row-33" x="-13" y="998" fill="#3c8bea" textLength="2254.200" lengthAdjust="spacingAndGlyphs">std::byte{0xEC}  0x504A : 9C 43  frame.id == 143  mov x10, x5  fn parse_3A(input)  0b1101110010000111  span(data, 151)  meta[13].len = 381;  std::array&lt;u8, 273&gt;  ldr x15, [x16, #0x23]  type_id: 0xB026  decode(bytes + 68);</text>
+          <text x="2241.200" y="998" fill="#3c8bea" textLength="2254.200" lengthAdjust="spacingAndGlyphs">std::byte{0xEC}  0x504A : 9C 43  frame.id == 143  mov x10, x5  fn parse_3A(input)  0b1101110010000111  span(data, 151)  meta[13].len = 381;  std::array&lt;u8, 273&gt;  ldr x15, [x16, #0x23]  type_id: 0xB026  decode(bytes + 68);</text>
+        </g>
+        <g class="code-stream" style="--start: -2407.200px; --duration: 65.059459s">
+          <text id="body-row-34" x="-13" y="1018" fill="#5a74ec" textLength="2407.200" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  view.subspan(0x3B)  trace(ptr + 0x29);  cmp w21, #290  align_up(112, 16)  read_u32(base + 299);  adrp x19, _section  0x298B : B4 01  frame.id == 172  buffer[14] ^= 0xE4;  size_t count = 110;  01100111100 1010111000</text>
+          <text x="2394.200" y="1018" fill="#5a74ec" textLength="2407.200" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  view.subspan(0x3B)  trace(ptr + 0x29);  cmp w21, #290  align_up(112, 16)  read_u32(base + 299);  adrp x19, _section  0x298B : B4 01  frame.id == 172  buffer[14] ^= 0xE4;  size_t count = 110;  01100111100 1010111000</text>
+        </g>
+        <g class="code-stream" style="--start: -2244.000px; --duration: 44.880000s">
+          <text id="body-row-35" x="-13" y="1038" fill="#5a74ec" textLength="2244.000" lengthAdjust="spacingAndGlyphs">fn parse_4B(input)  str x17, [x4, #149]  view.subspan(0x53)  adrp x18, _section  0xB9C0 : 05 2B  let offset = 0x1304;  read_u32(base + 272);  mov x11, x9  0b1110010011000110  ror w15, w3, #7  flags &amp; 0xDF  mask = 0xAF11;</text>
+          <text x="2231.000" y="1038" fill="#5a74ec" textLength="2244.000" lengthAdjust="spacingAndGlyphs">fn parse_4B(input)  str x17, [x4, #149]  view.subspan(0x53)  adrp x18, _section  0xB9C0 : 05 2B  let offset = 0x1304;  read_u32(base + 272);  mov x11, x9  0b1110010011000110  ror w15, w3, #7  flags &amp; 0xDF  mask = 0xAF11;</text>
+        </g>
+        <g class="code-stream" style="--start: -2315.400px; --duration: 68.100000s">
+          <text id="body-row-36" x="-13" y="1058" fill="#7860eb" textLength="2315.400" lengthAdjust="spacingAndGlyphs">eor x9, x2, x9  0x5D78 : 9F 0C  fn parse_34(input)  and x8, x23, #0x4B  01101111000 1000101111  meta[16].len = 72;  read_u32(base + 277);  add x11, x16, #90  cmp w17, #337  0b0011111001001000  type_id: 0xD557  cbz x14, label_DD</text>
+          <text x="2302.400" y="1058" fill="#7860eb" textLength="2315.400" lengthAdjust="spacingAndGlyphs">eor x9, x2, x9  0x5D78 : 9F 0C  fn parse_34(input)  and x8, x23, #0x4B  01101111000 1000101111  meta[16].len = 72;  read_u32(base + 277);  add x11, x16, #90  cmp w17, #337  0b0011111001001000  type_id: 0xD557  cbz x14, label_DD</text>
+        </g>
+        <g class="code-stream" style="--start: -2427.600px; --duration: 51.651064s">
+          <text id="body-row-37" x="-13" y="1078" fill="#7860eb" textLength="2427.600" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  mask = 0xE82B;  ldr w13, [sp, #334]  adrp x12, _section  let slice = &amp;data[15..249];  ldr x9, [x7, #0x7A]  size_t count = 336;  0x3856 : 3D FE  view.subspan(0x71)  str x3, [x2, #107]  struct node_2A {  frame.id == 79</text>
+          <text x="2414.600" y="1078" fill="#7860eb" textLength="2427.600" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  mask = 0xE82B;  ldr w13, [sp, #334]  adrp x12, _section  let slice = &amp;data[15..249];  ldr x9, [x7, #0x7A]  size_t count = 336;  0x3856 : 3D FE  view.subspan(0x71)  str x3, [x2, #107]  struct node_2A {  frame.id == 79</text>
+        </g>
+        <g class="code-stream" style="--start: -2386.800px; --duration: 76.993548s">
+          <text id="body-row-38" x="-13" y="1098" fill="#9953e3" textLength="2386.800" lengthAdjust="spacingAndGlyphs">read_u32(base + 81);  and x6, x9, #0x5E  str x2, [x23, #240]  fn parse_0C(input)  buffer[19] ^= 0x6A;  cbz x10, label_5F  ldr w14, [sp, #24]  checksum: 0xEC21  mov x2, x17  const size = 220;  adrp x14, _section  01110110110 1010111011</text>
+          <text x="2373.800" y="1098" fill="#9953e3" textLength="2386.800" lengthAdjust="spacingAndGlyphs">read_u32(base + 81);  and x6, x9, #0x5E  str x2, [x23, #240]  fn parse_0C(input)  buffer[19] ^= 0x6A;  cbz x10, label_5F  ldr w14, [sp, #24]  checksum: 0xEC21  mov x2, x17  const size = 220;  adrp x14, _section  01110110110 1010111011</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 53.318182s">
+          <text id="body-row-39" x="-13" y="1118" fill="#9953e3" textLength="2346.000" lengthAdjust="spacingAndGlyphs">meta[20].len = 211;  span(data, 189)  type_id: 0x3741  align_up(105, 16)  flags &amp; 0x3F  0x76C5 : 17 2F  decode(bytes + 31);  read_u32(base + 369);  01100000001 1010010011  add x23, x13, #310  let offset = 0xA5B5;  ror w18, w10, #7</text>
+          <text x="2333.000" y="1118" fill="#9953e3" textLength="2346.000" lengthAdjust="spacingAndGlyphs">meta[20].len = 211;  span(data, 189)  type_id: 0x3741  align_up(105, 16)  flags &amp; 0x3F  0x76C5 : 17 2F  decode(bytes + 31);  read_u32(base + 369);  01100000001 1010010011  add x23, x13, #310  let offset = 0xA5B5;  ror w18, w10, #7</text>
+        </g>
+        <g class="code-stream" style="--start: -2244.000px; --duration: 39.368421s">
+          <text id="body-row-40" x="-13" y="1138" fill="#ba4cd5" textLength="2244.000" lengthAdjust="spacingAndGlyphs">checksum: 0x8BB8  frame.id == 249  mask = 0x5104;  cmp w19, #296  str x2, [x2, #62]  flags &amp; 0x23  view.subspan(0x55)  meta[2].len = 34;  const size = 300;  size_t count = 162;  let offset = 0x23D9;  Result&lt;Bytes, Error&gt;</text>
+          <text x="2231.000" y="1138" fill="#ba4cd5" textLength="2244.000" lengthAdjust="spacingAndGlyphs">checksum: 0x8BB8  frame.id == 249  mask = 0x5104;  cmp w19, #296  str x2, [x2, #62]  flags &amp; 0x23  view.subspan(0x55)  meta[2].len = 34;  const size = 300;  size_t count = 162;  let offset = 0x23D9;  Result&lt;Bytes, Error&gt;</text>
+        </g>
+        <g class="code-stream" style="--start: -2284.800px; --duration: 55.726829s">
+          <text id="body-row-41" x="-13" y="1158" fill="#ba4cd5" textLength="2284.800" lengthAdjust="spacingAndGlyphs">str x7, [x1, #219]  fn parse_72(input)  01111011010 1011100111  const size = 340;  frame.id == 48  mov x14, x13  meta[23].len = 328;  and x9, x13, #0x07  type_id: 0x0396  let offset = 0x62A6;  mask = 0xB8D2;  eor x5, x12, x9</text>
+          <text x="2271.800" y="1158" fill="#ba4cd5" textLength="2284.800" lengthAdjust="spacingAndGlyphs">str x7, [x1, #219]  fn parse_72(input)  01111011010 1011100111  const size = 340;  frame.id == 48  mov x14, x13  meta[23].len = 328;  and x9, x13, #0x07  type_id: 0x0396  let offset = 0x62A6;  mask = 0xB8D2;  eor x5, x12, x9</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 43.444444s">
+          <text id="body-row-42" x="-13" y="1178" fill="#db49c1" textLength="2346.000" lengthAdjust="spacingAndGlyphs">view.subspan(0x30)  0xDBBA : CD 05  0b0010100111010010  std::array&lt;u8, 38&gt;  ldr w19, [sp, #339]  eor x3, x5, x9  mov x13, x11  let slice = &amp;data[18..30];  decode(bytes + 177);  cmp w3, #323  adrp x4, _section  let offset = 0x6877;</text>
+          <text x="2333.000" y="1178" fill="#db49c1" textLength="2346.000" lengthAdjust="spacingAndGlyphs">view.subspan(0x30)  0xDBBA : CD 05  0b0010100111010010  std::array&lt;u8, 38&gt;  ldr w19, [sp, #339]  eor x3, x5, x9  mov x13, x11  let slice = &amp;data[18..30];  decode(bytes + 177);  cmp w3, #323  adrp x4, _section  let offset = 0x6877;</text>
+        </g>
+        <g class="code-stream" style="--start: -2397.000px; --duration: 63.078947s">
+          <text id="body-row-43" x="-13" y="1198" fill="#db49c1" textLength="2397.000" lengthAdjust="spacingAndGlyphs">std::byte{0xBA}  cbz x10, label_33  size_t count = 140;  read_u32(base + 88);  let offset = 0x7F6E;  add x16, x9, #342  ldr x2, [x23, #0x1F]  str x21, [x11, #88]  meta[17].len = 203;  0xB60C : 8A D5  view.subspan(0x7B)  frame.id == 355</text>
+          <text x="2384.000" y="1198" fill="#db49c1" textLength="2397.000" lengthAdjust="spacingAndGlyphs">std::byte{0xBA}  cbz x10, label_33  size_t count = 140;  read_u32(base + 88);  let offset = 0x7F6E;  add x16, x9, #342  ldr x2, [x23, #0x1F]  str x21, [x11, #88]  meta[17].len = 203;  0xB60C : 8A D5  view.subspan(0x7B)  frame.id == 355</text>
+        </g>
+        <g class="code-stream" style="--start: -2254.200px; --duration: 44.200000s">
+          <text id="body-row-44" x="-13" y="1218" fill="#ed4da9" textLength="2254.200" lengthAdjust="spacingAndGlyphs">let offset = 0xBF8F;  size_t count = 257;  0xFE1D : E9 8A  span(data, 50)  str x12, [x7, #363]  flags &amp; 0x23  align_up(76, 16)  std::byte{0x53}  ldr x23, [x2, #0xB6]  checksum: 0xCDB0  ror w21, w13, #7  fn parse_6F(input)</text>
+          <text x="2241.200" y="1218" fill="#ed4da9" textLength="2254.200" lengthAdjust="spacingAndGlyphs">let offset = 0xBF8F;  size_t count = 257;  0xFE1D : E9 8A  span(data, 50)  str x12, [x7, #363]  flags &amp; 0x23  align_up(76, 16)  std::byte{0x53}  ldr x23, [x2, #0xB6]  checksum: 0xCDB0  ror w21, w13, #7  fn parse_6F(input)</text>
+        </g>
+        <g class="code-stream" style="--start: -2376.600px; --duration: 67.902857s">
+          <text id="body-row-45" x="-13" y="1238" fill="#ed4da9" textLength="2376.600" lengthAdjust="spacingAndGlyphs">mask = 0x4FD6;  let offset = 0x1436;  size_t count = 79;  mov x3, x18  const size = 379;  let slice = &amp;data[18..175];  cmp w9, #59  adrp x22, _section  01100101101 1010111001  fn parse_C2(input)  str x15, [x16, #322]  std::byte{0x7F}</text>
+          <text x="2363.600" y="1238" fill="#ed4da9" textLength="2376.600" lengthAdjust="spacingAndGlyphs">mask = 0x4FD6;  let offset = 0x1436;  size_t count = 79;  mov x3, x18  const size = 379;  let slice = &amp;data[18..175];  cmp w9, #59  adrp x22, _section  01100101101 1010111001  fn parse_C2(input)  str x15, [x16, #322]  std::byte{0x7F}</text>
+        </g>
+        <g class="code-stream" style="--start: -2376.600px; --duration: 49.512500s">
+          <text id="body-row-46" x="-13" y="1258" fill="#fb538f" textLength="2376.600" lengthAdjust="spacingAndGlyphs">view.subspan(0x19)  frame.id == 53  Result&lt;Bytes, Error&gt;  add x15, x14, #240  flags &amp; 0xE5  type_id: 0x0CCA  const size = 205;  struct node_D3 {  01100010110 1001110010  and x11, x22, #0x93  let slice = &amp;data[7..318];  mask = 0x9A0E;</text>
+          <text x="2363.600" y="1258" fill="#fb538f" textLength="2376.600" lengthAdjust="spacingAndGlyphs">view.subspan(0x19)  frame.id == 53  Result&lt;Bytes, Error&gt;  add x15, x14, #240  flags &amp; 0xE5  type_id: 0x0CCA  const size = 205;  struct node_D3 {  01100010110 1001110010  and x11, x22, #0x93  let slice = &amp;data[7..318];  mask = 0x9A0E;</text>
+        </g>
+      </g>
+      <g id="leaf-code" clip-path="url(#leaf-shape)" font-family="Menlo, DejaVu Sans Mono, monospace" font-size="17" font-weight="500" xml:space="preserve">
+        <g class="code-stream" style="--start: -2458.200px; --duration: 81.940000s">
+          <text id="leaf-row-00" x="-13" y="51" fill="#ff424c" textLength="2458.200" lengthAdjust="spacingAndGlyphs">size_t count = 259;  decode(bytes + 145);  ldr w9, [sp, #338]  adrp x9, _section  ldr x8, [x18, #0xA5]  ror w6, w23, #7  let slice = &amp;data[5..200];  0b0101111100110101  std::array&lt;u8, 285&gt;  struct node_77 {  checksum: 0x940A  span(data, 311)</text>
+          <text x="2445.200" y="51" fill="#ff424c" textLength="2458.200" lengthAdjust="spacingAndGlyphs">size_t count = 259;  decode(bytes + 145);  ldr w9, [sp, #338]  adrp x9, _section  ldr x8, [x18, #0xA5]  ror w6, w23, #7  let slice = &amp;data[5..200];  0b0101111100110101  std::array&lt;u8, 285&gt;  struct node_77 {  checksum: 0x940A  span(data, 311)</text>
+        </g>
+        <g class="code-stream" style="--start: -2437.800px; --duration: 56.693023s">
+          <text id="leaf-row-01" x="-13" y="71" fill="#ff424c" textLength="2437.800" lengthAdjust="spacingAndGlyphs">view.subspan(0x16)  std::array&lt;u8, 40&gt;  size_t count = 223;  mask = 0xC4FE;  read_u32(base + 228);  0xA8DE : 68 F3  ldr x9, [x14, #0x53]  ror w8, w8, #7  fn parse_77(input)  cbz x8, label_4F  let slice = &amp;data[4..360];  str x11, [x1, #245]</text>
+          <text x="2424.800" y="71" fill="#ff424c" textLength="2437.800" lengthAdjust="spacingAndGlyphs">view.subspan(0x16)  std::array&lt;u8, 40&gt;  size_t count = 223;  mask = 0xC4FE;  read_u32(base + 228);  0xA8DE : 68 F3  ldr x9, [x14, #0x53]  ror w8, w8, #7  fn parse_77(input)  cbz x8, label_4F  let slice = &amp;data[4..360];  str x11, [x1, #245]</text>
+        </g>
+        <g class="code-stream" style="--start: -2274.600px; --duration: 40.617857s">
+          <text id="leaf-row-02" x="-13" y="91" fill="#ff424c" textLength="2274.600" lengthAdjust="spacingAndGlyphs">view.subspan(0xCA)  ldr x23, [x19, #0xFA]  align_up(191, 16)  trace(ptr + 0xC9);  type_id: 0xE878  mov x23, x10  span(data, 111)  01101111011 1010011000  fn parse_6A(input)  std::byte{0x94}  checksum: 0x6FFA  0x5C3E : D2 68</text>
+          <text x="2261.600" y="91" fill="#ff424c" textLength="2274.600" lengthAdjust="spacingAndGlyphs">view.subspan(0xCA)  ldr x23, [x19, #0xFA]  align_up(191, 16)  trace(ptr + 0xC9);  type_id: 0xE878  mov x23, x10  span(data, 111)  01101111011 1010011000  fn parse_6A(input)  std::byte{0x94}  checksum: 0x6FFA  0x5C3E : D2 68</text>
+        </g>
+        <g class="code-stream" style="--start: -2254.200px; --duration: 56.355000s">
+          <text id="leaf-row-03" x="-13" y="111" fill="#ff424c" textLength="2254.200" lengthAdjust="spacingAndGlyphs">adrp x23, _section  span(data, 249)  add x9, x13, #29  checksum: 0xDB4D  decode(bytes + 359);  struct node_7B {  eor x5, x16, x9  fn parse_0A(input)  trace(ptr + 0x34);  read_u32(base + 263);  flags &amp; 0xA7  frame.id == 40</text>
+          <text x="2241.200" y="111" fill="#ff424c" textLength="2254.200" lengthAdjust="spacingAndGlyphs">adrp x23, _section  span(data, 249)  add x9, x13, #29  checksum: 0xDB4D  decode(bytes + 359);  struct node_7B {  eor x5, x16, x9  fn parse_0A(input)  trace(ptr + 0x34);  read_u32(base + 263);  flags &amp; 0xA7  frame.id == 40</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 44.264151s">
+          <text id="leaf-row-04" x="-13" y="131" fill="#ff424c" textLength="2346.000" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  const size = 134;  size_t count = 131;  type_id: 0xEEF7  align_up(186, 16)  struct node_4F {  decode(bytes + 169);  flags &amp; 0x77  std::array&lt;u8, 323&gt;  cbz x11, label_A7  trace(ptr + 0x7C);  0b0100101000100010</text>
+          <text x="2333.000" y="131" fill="#ff424c" textLength="2346.000" lengthAdjust="spacingAndGlyphs">Result&lt;Bytes, Error&gt;  const size = 134;  size_t count = 131;  type_id: 0xEEF7  align_up(186, 16)  struct node_4F {  decode(bytes + 169);  flags &amp; 0x77  std::array&lt;u8, 323&gt;  cbz x11, label_A7  trace(ptr + 0x7C);  0b0100101000100010</text>
+        </g>
+        <g class="code-stream" style="--start: -2448.000px; --duration: 66.162162s">
+          <text id="leaf-row-05" x="-13" y="151" fill="#ff424c" textLength="2448.000" lengthAdjust="spacingAndGlyphs">adrp x23, _section  ror w12, w11, #7  let offset = 0x9E0F;  and x14, x2, #0x6F  fn parse_DB(input)  str x19, [x16, #184]  add x5, x7, #233  align_up(34, 16)  frame.id == 40  ldr x7, [x19, #0x55]  let slice = &amp;data[15..136];  type_id: 0x225B</text>
+          <text x="2435.000" y="151" fill="#ff424c" textLength="2448.000" lengthAdjust="spacingAndGlyphs">adrp x23, _section  ror w12, w11, #7  let offset = 0x9E0F;  and x14, x2, #0x6F  fn parse_DB(input)  str x19, [x16, #184]  add x5, x7, #233  align_up(34, 16)  frame.id == 40  ldr x7, [x19, #0x55]  let slice = &amp;data[15..136];  type_id: 0x225B</text>
+        </g>
+        <g class="code-stream" style="--start: -2346.000px; --duration: 46.920000s">
+          <text id="leaf-row-06" x="-13" y="171" fill="#ff424c" textLength="2346.000" lengthAdjust="spacingAndGlyphs">view.subspan(0x4D)  ldr x9, [x8, #0x7E]  frame.id == 84  fn parse_64(input)  cmp w12, #129  and x20, x15, #0x1D  std::array&lt;u8, 69&gt;  meta[16].len = 37;  std::byte{0x40}  cbz x17, label_27  ldr w16, [sp, #296]  decode(bytes + 111);</text>
+          <text x="2333.000" y="171" fill="#ff424c" textLength="2346.000" lengthAdjust="spacingAndGlyphs">view.subspan(0x4D)  ldr x9, [x8, #0x7E]  frame.id == 84  fn parse_64(input)  cmp w12, #129  and x20, x15, #0x1D  std::array&lt;u8, 69&gt;  meta[16].len = 37;  std::byte{0x40}  cbz x17, label_27  ldr w16, [sp, #296]  decode(bytes + 111);</text>
+        </g>
+        <g class="code-stream" style="--start: -2305.200px; --duration: 67.800000s">
+          <text id="leaf-row-07" x="-13" y="191" fill="#ff424c" textLength="2305.200" lengthAdjust="spacingAndGlyphs">cbz x17, label_84  frame.id == 173  fn parse_00(input)  add x6, x16, #371  trace(ptr + 0x32);  read_u32(base + 60);  buffer[2] ^= 0xB4;  01111000100 1011011111  ror w8, w6, #7  mask = 0xFE5A;  align_up(150, 16)  span(data, 87)</text>
+          <text x="2292.200" y="191" fill="#ff424c" textLength="2305.200" lengthAdjust="spacingAndGlyphs">cbz x17, label_84  frame.id == 173  fn parse_00(input)  add x6, x16, #371  trace(ptr + 0x32);  read_u32(base + 60);  buffer[2] ^= 0xB4;  01111000100 1011011111  ror w8, w6, #7  mask = 0xFE5A;  align_up(150, 16)  span(data, 87)</text>
+        </g>
+        <g class="code-stream" style="--start: -2264.400px; --duration: 48.178723s">
+          <text id="leaf-row-08" x="-13" y="211" fill="#ff424c" textLength="2264.400" lengthAdjust="spacingAndGlyphs">checksum: 0x9B85  const size = 169;  mov x20, x13  let slice = &amp;data[18..213];  fn parse_79(input)  frame.id == 133  adrp x7, _section  ldr w20, [sp, #206]  view.subspan(0xAB)  flags &amp; 0x31  cmp w10, #48  add x6, x10, #157</text>
+          <text x="2251.400" y="211" fill="#ff424c" textLength="2264.400" lengthAdjust="spacingAndGlyphs">checksum: 0x9B85  const size = 169;  mov x20, x13  let slice = &amp;data[18..213];  fn parse_79(input)  frame.id == 133  adrp x7, _section  ldr w20, [sp, #206]  view.subspan(0xAB)  flags &amp; 0x31  cmp w10, #48  add x6, x10, #157</text>
+        </g>
+        <g class="code-stream" style="--start: -2070.600px; --duration: 66.793548s">
+          <text id="leaf-row-09" x="-13" y="231" fill="#ff424c" textLength="2070.600" lengthAdjust="spacingAndGlyphs">flags &amp; 0x9F  type_id: 0x1ACB  cbz x13, label_CF  0x73CA : 1A D7  cmp w18, #33  const size = 236;  frame.id == 366  adrp x12, _section  span(data, 311)  align_up(28, 16)  mask = 0xB078;  checksum: 0xF5CA</text>
+          <text x="2057.600" y="231" fill="#ff424c" textLength="2070.600" lengthAdjust="spacingAndGlyphs">flags &amp; 0x9F  type_id: 0x1ACB  cbz x13, label_CF  0x73CA : 1A D7  cmp w18, #33  const size = 236;  frame.id == 366  adrp x12, _section  span(data, 311)  align_up(28, 16)  mask = 0xB078;  checksum: 0xF5CA</text>
+        </g>
+        <g class="code-stream" style="--start: -2407.200px; --duration: 54.709091s">
+          <text id="leaf-row-10" x="-13" y="251" fill="#ff424c" textLength="2407.200" lengthAdjust="spacingAndGlyphs">str x14, [x2, #210]  Result&lt;Bytes, Error&gt;  eor x6, x22, x9  size_t count = 300;  align_up(277, 16)  mov x9, x12  01100101110 1000001010  std::array&lt;u8, 261&gt;  fn parse_15(input)  checksum: 0x3525  decode(bytes + 99);  buffer[21] ^= 0x7F;</text>
+          <text x="2394.200" y="251" fill="#ff424c" textLength="2407.200" lengthAdjust="spacingAndGlyphs">str x14, [x2, #210]  Result&lt;Bytes, Error&gt;  eor x6, x22, x9  size_t count = 300;  align_up(277, 16)  mov x9, x12  01100101110 1000001010  std::array&lt;u8, 261&gt;  fn parse_15(input)  checksum: 0x3525  decode(bytes + 99);  buffer[21] ^= 0x7F;</text>
+        </g>
+        <g class="code-stream" style="--start: -2427.600px; --duration: 42.589474s">
+          <text id="leaf-row-11" x="-13" y="271" fill="#ff424c" textLength="2427.600" lengthAdjust="spacingAndGlyphs">std::array&lt;u8, 38&gt;  let slice = &amp;data[21..88];  buffer[20] ^= 0x0E;  adrp x8, _section  type_id: 0xEF79  mask = 0x5843;  decode(bytes + 306);  ldr w17, [sp, #53]  ror w14, w9, #7  0b0000100001000001  view.subspan(0x29)  fn parse_83(input)</text>
+          <text x="2414.600" y="271" fill="#ff424c" textLength="2427.600" lengthAdjust="spacingAndGlyphs">std::array&lt;u8, 38&gt;  let slice = &amp;data[21..88];  buffer[20] ^= 0x0E;  adrp x8, _section  type_id: 0xEF79  mask = 0x5843;  decode(bytes + 306);  ldr w17, [sp, #53]  ror w14, w9, #7  0b0000100001000001  view.subspan(0x29)  fn parse_83(input)</text>
+        </g>
+        <g class="code-stream" style="--start: -2335.800px; --duration: 56.970732s">
+          <text id="leaf-row-12" x="-13" y="291" fill="#ff424c" textLength="2335.800" lengthAdjust="spacingAndGlyphs">let slice = &amp;data[23..345];  and x22, x14, #0x61  view.subspan(0x25)  const size = 331;  cmp w19, #255  flags &amp; 0xCA  eor x8, x20, x9  0xD294 : B4 D7  Result&lt;Bytes, Error&gt;  trace(ptr + 0xB2);  decode(bytes + 140);  frame.id == 21</text>
+          <text x="2322.800" y="291" fill="#ff424c" textLength="2335.800" lengthAdjust="spacingAndGlyphs">let slice = &amp;data[23..345];  and x22, x14, #0x61  view.subspan(0x25)  const size = 331;  cmp w19, #255  flags &amp; 0xCA  eor x8, x20, x9  0xD294 : B4 D7  Result&lt;Bytes, Error&gt;  trace(ptr + 0xB2);  decode(bytes + 140);  frame.id == 21</text>
+        </g>
+        <g class="code-stream" style="--start: -2376.600px; --duration: 44.011111s">
+          <text id="leaf-row-13" x="-13" y="311" fill="#ff424c" textLength="2376.600" lengthAdjust="spacingAndGlyphs">meta[3].len = 138;  0x647D : 87 92  and x15, x9, #0x2D  const size = 123;  0b1010011000010110  cbz x16, label_F1  adrp x13, _section  add x20, x18, #200  view.subspan(0xDC)  decode(bytes + 236);  mask = 0x1552;  ldr x13, [x17, #0x4D]</text>
+          <text x="2363.600" y="311" fill="#ff424c" textLength="2376.600" lengthAdjust="spacingAndGlyphs">meta[3].len = 138;  0x647D : 87 92  and x15, x9, #0x2D  const size = 123;  0b1010011000010110  cbz x16, label_F1  adrp x13, _section  add x20, x18, #200  view.subspan(0xDC)  decode(bytes + 236);  mask = 0x1552;  ldr x13, [x17, #0x4D]</text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="fading-code-contour" clip-path="url(#left-of-cut)" fill="none" stroke-width="0.01846785">
+    <use stroke="url(#body-outline-colors)" xlink:href="#apple-body" />
+    <use stroke="url(#leaf-outline-colors)" xlink:href="#apple-leaf" />
+  </g>
+  <g id="stripe" data-top="741.000,89.000" data-bottom="437.646,1201.332">
+    <path id="stripe-red" d="M736.7550,87.8423 C671.9467,333.0816 502.0684,955.9875 433.4010,1200.1743 C498.2094,954.9351 668.0876,332.0291 736.7550,87.8423Z" fill="#ff4558" />
+    <path id="stripe-green" d="M741.0000,89.0000 C676.1917,334.2393 506.3134,957.1452 437.6460,1201.3320 C502.4543,956.0927 672.3326,333.1868 741.0000,89.0000Z" fill="#81ef52" />
+    <path id="stripe-purple" d="M745.2450,90.1577 C680.4366,335.3969 510.5584,958.3029 441.8910,1202.4897 C506.6993,957.2504 676.5776,334.3445 745.2450,90.1577Z" fill="#ac74ef" />
+  </g>
+  <style>
+  .code-stream { animation: code-flow var(--duration) linear infinite; }
+  @keyframes code-flow {
+    from { transform: translateX(var(--start)); }
+    to { transform: translateX(0); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .code-stream { animation: none; }
+  }
+</style>
+</svg>
