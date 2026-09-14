@@ -32,6 +32,12 @@ img { display: block; max-width: 100%; }
 .wordmark img { width: 100%; height: auto; }
 .site-header { position: sticky; top: 0; z-index: 5; background: var(--paper); color: var(--ink); border-bottom: 1px solid var(--line); }
 .header-inner { display: flex; justify-content: space-between; align-items: center; min-height: 148px; padding-block: .75rem; gap: 2rem; }
+.header-controls { display: flex; align-items: center; justify-content: flex-end; gap: 1.5rem; min-width: 0; }
+.language-switch { display: flex; flex-shrink: 0; align-items: center; padding: 3px; border: 1px solid var(--line); border-radius: 999px; background: var(--soft); }
+.language-switch a { display: inline-flex; align-items: center; justify-content: center; gap: .4rem; min-height: 44px; padding: .35rem .65rem; border-radius: 999px; color: var(--body); font-size: .75rem; font-weight: 600; }
+.language-switch a[aria-current="page"] { background: var(--ink); color: white; }
+.language-switch a:not([aria-current="page"]):hover { background: #e4ecee; color: var(--ink); }
+.language-switch img { width: 20px; height: 14px; object-fit: cover; border-radius: 2px; }
 nav { display: flex; align-items: center; gap: 1.9rem; }
 nav a { font-size: .8125rem; font-weight: 500; color: var(--body); padding-block: .65rem; transition: color .18s ease; }
 nav a:hover { color: var(--blue); }
@@ -155,8 +161,10 @@ h1 span { color: var(--green); }
   html { scroll-padding-top: 10rem; }
   .container { width: calc(100% - 2.5rem); }
   .header-inner { gap: 1.5rem; min-height: 124px; padding-block: .75rem; }
+  .header-controls { flex: 1; flex-direction: column; align-items: flex-end; gap: .45rem; }
+  .language-switch { order: -1; }
   .wordmark { width: 4.75rem; }
-  nav { min-width: 0; max-width: 23rem; flex: 1; flex-wrap: wrap; justify-content: flex-end; gap: .2rem 1rem; }
+  nav { width: 100%; min-width: 0; max-width: 23rem; flex-wrap: wrap; justify-content: flex-end; gap: .2rem 1rem; }
   nav a { padding-block: .5rem; }
   nav .nav-contact { border: 0; padding: .5rem 0; gap: .4rem; }
   .hero-inner { grid-template-columns: 1fr; gap: 2.5rem; padding-block: 3.5rem 4rem; text-align: center; }
